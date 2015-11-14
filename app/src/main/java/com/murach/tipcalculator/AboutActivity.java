@@ -12,6 +12,21 @@ public class AboutActivity extends Activity {
 
 		//Hello OSAMA and KARIM
 		//setgetbetasdasd
+
+
+		/*
+		*
+		* Smoke Weed
+		* Kidz
+		*
+		*
+		*
+		*
+		* */
+
+
+
+
 		//Hello boyz 123
 
 /*Hola hermanos*/
