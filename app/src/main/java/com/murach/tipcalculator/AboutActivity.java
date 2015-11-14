@@ -13,7 +13,7 @@ public class AboutActivity extends Activity implements View.OnClickListener{
 
 		//Hello OSAMA and KARIM
 		//setgetbetasdasd
-		/*Hello boiz */
+		/*Hello boiz gg*/
 	}
 
 	@Override
