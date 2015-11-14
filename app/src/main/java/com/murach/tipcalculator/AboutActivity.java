@@ -2,9 +2,8 @@ package com.murach.tipcalculator;
 
 import android.os.Bundle;
 import android.app.Activity;
-import android.view.View;
 
-public class AboutActivity extends Activity implements View.OnClickListener{
+public class AboutActivity extends Activity {
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -13,13 +12,11 @@ public class AboutActivity extends Activity implements View.OnClickListener{
 
 		//Hello OSAMA and KARIM
 		//setgetbetasdasd
-		//gg
-		/*Hello boiz */
+		//Hello boyz 123
+
+
+
+		//fuckbitchassdonkey
 	}
 
-	@Override
-	public void onClick(View v) {
-		/*Why isn't it updating mister Abdu ?
-		* */
-	}
 }
