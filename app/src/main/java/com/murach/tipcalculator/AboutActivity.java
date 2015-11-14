@@ -10,28 +10,6 @@ public class AboutActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_about);
 
-		//Hello OSAMA and KARIM
-		//setgetbetasdasd
-//dd
-
-		/*
-		*
-		* Smoke Weed
-		* Kidz
-		*
-		*
-		*
-		*
-		* */
-
-
-
-
-		//Hello boyz 123
-
-/*Hola hermanos*/
-
-		//fuckbitchassdonkey	gg
 	}
 
 }
