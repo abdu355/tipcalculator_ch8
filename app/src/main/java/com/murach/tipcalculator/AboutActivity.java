@@ -17,7 +17,7 @@ public class AboutActivity extends Activity {
 /*Hola hermanos*/
 
 		//fuckbitchassdonkey	gg
-		//updated
+		//updated 123
 	}
 
 }
