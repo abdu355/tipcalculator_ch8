@@ -14,7 +14,7 @@ public class AboutActivity extends Activity {
 		//setgetbetasdasd
 		//Hello boyz 123
 
-
+/*Hola hermanos*/
 
 		//fuckbitchassdonkey
 	}
