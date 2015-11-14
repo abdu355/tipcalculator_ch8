@@ -12,7 +12,7 @@ public class AboutActivity extends Activity {
 
 		//Hello OSAMA and KARIM
 		//setgetbetasdasd
-
+//dd
 
 		/*
 		*
