@@ -17,5 +17,6 @@ public class AboutActivity extends Activity implements View.OnClickListener{
 	@Override
 	public void onClick(View v) {
 //Hatcho
+		//Pikachu
 	}
 }
