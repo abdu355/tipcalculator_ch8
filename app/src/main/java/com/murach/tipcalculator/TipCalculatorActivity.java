@@ -33,7 +33,7 @@ implements OnEditorActionListener, OnClickListener {
     // define instance variables that should be saved
     private String billAmountString = "";
     private float tipPercent = .15f;
-    
+    //hi
     // define rounding constants
     private final int ROUND_NONE = 0;
     private final int ROUND_TIP = 1;
