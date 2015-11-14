@@ -11,6 +11,7 @@ public class AboutActivity extends Activity implements View.OnClickListener{
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_about);
 
+		//hi my name is jeff
 	}
 
 	@Override
